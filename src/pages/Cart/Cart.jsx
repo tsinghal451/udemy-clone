@@ -17,21 +17,21 @@ const Cart = () => {
   const [appliedCoupon, setAppliedCoupon] = useState("");
 
   const cartData = [
-    // {
-    //   id: 1,
-    //   img: cardImg,
-    //   link: "/course/python",
-    //   ttl: "Learn Python: The complete python programming course",
-    //   authors: ["Koushil", "Nani"],
-    //   ratings: { totalratings: 4.3, count: 3445 },
-    //   duration: 10000,
-    //   lectures: 146,
-    //   level: "All",
-    //   price: 649,
-    //   discount: 3399,
-    //   couponApplied: "koushil mankali",
-    //   bestSeller: true,
-    // },
+     {
+     id: 1,
+    img: cardImg,
+       link: "/course/python",
+       ttl: "Learn Python: The complete python programming course",
+       authors: ["Koushil", "Nani"],
+       ratings: { totalratings: 4.3, count: 3445 },
+       duration: 10000,
+       lectures: 146,
+       level: "All",
+       price: 649,
+       discount: 3399,
+       couponApplied: "koushil mankali",
+       bestSeller: true,
+     },
   ];
 
   const whitlistedCourses = [

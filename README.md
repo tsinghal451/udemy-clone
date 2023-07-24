@@ -1,6 +1,6 @@
 # udemy-clone
 
-# PROJECT STILL IN PROGRESS (TAKES LONG TIME TO COMPLETE)
+
 
 udemy-clone which is a clone of Udemy (Learning Management System) developed using MERN stack, this repo is part of the application which is frontend of the Udemy clone developed using React JS.
 
@@ -24,11 +24,7 @@ udemy-clone which is a clone of Udemy (Learning Management System) developed usi
 | Yup       | Validation tool                          |
 | Yarn      | Package Manager tool                     |
 
-### To start the project use commands: (After cloning the project)
+### To start the project use commands:
 
 1. yarn
 2. yarn run dev
-
-### Project Start Date: 31-OCT-2022
-
-### Project End Date: ---

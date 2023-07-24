@@ -1277,7 +1277,7 @@ const BigVerticalCourseCardData = [
 const popularInstructorsData = [
   {
     id: 1,
-    name: "Koushil Mankali",
+    name: "Tushar Singhal",
     img: cardImg,
     majorLang: ["React Js", "React Native"],
     rating: 4.2,

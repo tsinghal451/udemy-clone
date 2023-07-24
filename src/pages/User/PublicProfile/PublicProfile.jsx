@@ -13,7 +13,7 @@ const PublicProfile = () => {
       <div className={css.outerDiv}>
         <div className={css.topBar}>
           <div className={css.userBar}>
-            <div className={css.user}>Koushil Mankali</div>
+            <div className={css.user}>Tushar Singhal</div>
           </div>
         </div>
       </div>

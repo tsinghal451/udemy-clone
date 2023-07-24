@@ -19,6 +19,7 @@ import globIcon from "/icons/globe.png";
 const Checkout = () => {
   const [state, setState] = useState({
     country: "India",
+   
     state: "Please select...",
   });
 

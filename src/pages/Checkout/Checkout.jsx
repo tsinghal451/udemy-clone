@@ -20,7 +20,7 @@ const Checkout = () => {
   const [state, setState] = useState({
     country: "India",
    
-    state: "Please select...",
+    state: "Rajasthan",
   });
 
   const selectHandler = (value) => {
@@ -100,7 +100,7 @@ const Checkout = () => {
                   {new Intl.NumberFormat("en-IN", {
                     style: "currency",
                     currency: "INR",
-                  }).format(3399)}
+                  }).format(699)}
                 </span>
               </div>
               <hr className={css.hr} />
@@ -110,7 +110,7 @@ const Checkout = () => {
                   {new Intl.NumberFormat("en-IN", {
                     style: "currency",
                     currency: "INR",
-                  }).format(3399)}
+                  }).format(699)}
                 </span>
               </div>
               <div className={css.note}>

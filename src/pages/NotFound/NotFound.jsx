@@ -9,7 +9,7 @@ const NotFound = () => {
   return (
     <Layout1>
       <div className={css.outerDiv}>
-        <div className={css.nfTxt}>Page not found!</div>
+        <div className={css.nfTxt}>Page not found!.....Project going on...Complete Soon</div>
         <Button2
           txt="Go to Home Page"
           bck="transparent"

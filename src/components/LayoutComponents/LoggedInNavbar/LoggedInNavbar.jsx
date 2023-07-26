@@ -71,8 +71,8 @@ const LoggedInNavbar = () => {
                     />
                   </div>
                   <div className={css.rightUserDiv}>
-                    <div className={css.uname}>Koushil Mankali</div>
-                    <div className={css.email}>koushilmankali@gmail.com</div>
+                    <div className={css.uname}>Tushar Singhal</div>
+                    <div className={css.email}>tsinghal451@gmail.com</div>
                   </div>
                 </Link>
               </div>

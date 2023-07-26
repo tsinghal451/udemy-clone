@@ -40,7 +40,7 @@ const ReviewsTabComponent = () => {
     {
       id: "c3",
       img: imgC,
-      name: "Koushil Mankali",
+      name: "Tushar Singhal",
       rating: 2,
       date: "02-02-2022",
       comment: "This is a comment too!",

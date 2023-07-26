@@ -101,7 +101,7 @@ const AllCoursesComponent = () => {
       value: "aaron wheeler",
     },
     {
-      key: "Koushil Mankali",
+      key: "Tushar Singhal",
       value: "koushil",
     },
   ];

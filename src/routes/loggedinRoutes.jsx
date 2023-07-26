@@ -39,8 +39,8 @@ import CreateCourse from "../pages/InstructorPages/CreateCourse/CreateCourse";
 const loggedinRoutes = [
   {
     path: "/",
-    element: <HomePage />,
-    //element: <LoggedInUserHomePage />,
+    //element: <HomePage />,
+    element: <LoggedInUserHomePage />,
   },
   
   {

@@ -4,8 +4,6 @@ Thanks to Mishal Gupta Sir , Priya soni mam and Priyanka Maharshi for giving thi
 
 udemy-clone which is a clone of Udemy (Learning Management System) developed using MERN stack, this repo is part of the application which is frontend of the Udemy clone developed using React JS.
 
-### Project Demonistration Video:
- okay 
 ## Libraries Used:
 
 | Library Name    | Description                                           |
@@ -31,4 +29,4 @@ udemy-clone which is a clone of Udemy (Learning Management System) developed usi
 1. yarn
 2. yarn run dev
 
-Deploy Link: 
+Deploy Link: https://udemy-clone-tushars.netlify.app/
